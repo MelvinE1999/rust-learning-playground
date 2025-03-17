@@ -1,7 +1,6 @@
 use std::{
     error::Error,
     fs::File,
-    io::Read,
     str::FromStr,
 };
 
