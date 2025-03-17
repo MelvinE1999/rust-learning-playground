@@ -1,0 +1,1 @@
+/Users/mel/Desktop/repos/rust-learning-playground/advent-of-code-2024/day-one/code/puzzle-one/target/debug/puzzle-one: /Users/mel/Desktop/repos/rust-learning-playground/advent-of-code-2024/day-one/code/puzzle-one/src/main.rs
